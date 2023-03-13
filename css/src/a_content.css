@@ -1,0 +1,31 @@
+html {
+  background-color: rgba(75, 117, 103, 0.6);
+  margin: 50px;
+}
+
+h1 {
+  width: 100%; height: auto;
+  margin-bottom: 30px;
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+}
+
+#wrap {
+  width: auto; height: auto;
+}
+
+li {
+  width: 208px;
+  margin: auto;
+  line-height: 50px;
+  font-size: 23px;
+  font-weight: 400;
+  text-align: center;
+  text-transform: capitalize;
+  text-decoration: none;
+}
+li:hover {
+  color: #fff;
+  text-decoration: none;
+}
